@@ -1,3 +1,3 @@
-# GitHub Pag
+# GitHub Page
 
 ## DWD-Seasonality 
